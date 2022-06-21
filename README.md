@@ -1,1 +1,9 @@
 # LKP_Susulan
+
+Dina Nabila
+2007051041
+Kelas B
+
+ISI :
+- LKP DATA STORE 
+- LKP ACTIVITY & INTENT
